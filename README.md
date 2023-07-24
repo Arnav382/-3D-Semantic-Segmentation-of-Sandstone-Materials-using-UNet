@@ -1,4 +1,4 @@
-# -3D-Semantic-Segmentation-of-Sandstone-Materials-using-UNet
+# 3D Semantic Segmentation of Sandstone Materials using UNet
 Advanced 3D semantic segmentation model to classify four distinct materials(air, quartz, pyrite, clay) present in sandstone, based on tomography scan data.
 Leveraging the powerful UNet
 
