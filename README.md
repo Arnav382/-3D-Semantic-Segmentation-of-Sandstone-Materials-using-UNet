@@ -8,3 +8,5 @@ Trained the model on a dataset of tomography scans to classify four materials in
 Utilized encoder weights pre-trained on ImageNet to enhance model accuracy and generalization. 
 
 Achieved an impressive IOU score of 0.70 and an F1-score of 0.81 on the training set
+
+![example result](https://github.com/Arnav382/-3D-Semantic-Segmentation-of-Sandstone-Materials-using-UNet/assets/74955631/6e0ee2e2-2176-48be-a5f2-2afc0f6fd12b)
